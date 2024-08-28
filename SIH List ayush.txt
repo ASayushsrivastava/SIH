@@ -1,0 +1,105 @@
+97. NDRF - Disaster Managment 
+Key Issues:
+Inefficient Data Gathering: Disaster response agencies struggle to manually monitor and sort through vast amounts of information from social media and other sources during emergencies.
+Delayed Response: The inefficiency in gathering specific and timely disaster-related information hampers the speed and effectiveness of disaster response efforts.
+Project Description:
+Need for Automated Data Aggregation:
+Develop a software solution to aggregate and categorize disaster-related data from social media, news portals, and other open sources.
+Utilize advanced algorithms to efficiently sift through large volumes of information, categorizing it based on relevance to disaster response.
+Expected Solutions:
+Real-Time Data Aggregation and Categorization:
+The software will automate the process of gathering and sorting disaster-related information, significantly reducing the time required to access critical data.
+User-Friendly Dashboard:
+Present categorized data on an intuitive dashboard, allowing disaster response agencies to quickly access and utilize relevant information.
+Enhanced Response Efficiency:
+By providing real-time insights and actionable information, the software will improve the effectiveness of disaster response operations, ultimately aiding in saving lives.
+
+
+
+76. M of Edu. - Smart Education
+Key Issues:
+Lack of Career Counselling: Inadequate career counselling in schools leads to poor career choices, skill mismatches, job dissatisfaction, and unemployment.
+Limited Awareness: Many students and families in India are unaware of diverse career opportunities, often leading to decisions based on limited information or societal pressure.
+Need for Holistic Education: NEP 2020 emphasizes the importance of providing students with guidance to make informed career choices.
+Project Description:
+Comprehensive Career Counselling and Guidance Programs:
+Training Career Counsellors: Equip counsellors with the skills and knowledge to provide effective career guidance.
+Resource Development: Create tools and resources for career exploration, integrated into the school curriculum.
+Personalized Guidance: Offer personalized counselling sessions and workshops, providing information on various career paths and educational requirements.
+Technology Integration: Leverage technology to create interactive platforms for enhanced career exploration and student engagement.
+Innovative Solutions:
+AI-Powered Career Guidance Platforms: Develop platforms that use AI to offer personalized career advice based on students' interests, strengths, and market trends.
+Career Mentorship Programs: Establish programs where students receive guidance from professionals in their fields of interest.
+Interactive Career Exploration Tools: Create digital tools and apps for students to explore different careers through virtual simulations, videos, and interactive content.
+Comprehensive Career Resource Portals: Develop online portals with extensive resources on career options, required skills, educational pathways, and job market trends.
+Alignment with NEP 2020:
+Holistic Education: These initiatives support NEP 2020's vision by equipping students with the knowledge and skills necessary to pursue their career aspirations through informed and relevant education.
+
+
+65. M of Defence - Smart Automation
+Key Issues:
+Manual Document Verification: The current manual process for verifying eligibility documents submitted by candidates is time-consuming and prone to errors.
+Language Barriers: Documents may be in languages other than Hindi or English, complicating the verification process.
+
+Project Description:
+Document Verification Using Intelligent Document Processing (IDP):
+Current Challenge: Verification of documents like educational certificates, GATE scorecards, experience letters, and caste or PwD certificates is done manually, leading to inefficiencies and potential errors.
+Solution: Implement IDP techniques using Machine Learning, Deep Learning, Artificial Intelligence, and Natural Language Processing to automate the extraction and verification of information from documents.
+
+Expected Solution:
+Automated Information Extraction: Extract information from submitted documents at the time of application form submission, with real-time alerts for any mismatches.
+Enhanced Screening Process: Employ robust data extraction techniques during application screening to minimize errors.
+Business Intelligence Integration: Present extracted information using modern business intelligence tools to improve the efficiency and transparency of the process.
+Performance Requirements: The solution should achieve Three Sigma accuracy and process documents at a speed of no more than 3 seconds per document.
+
+
+61. M of Culture - Travel & tourism
+Key Issues:
+Inefficiency in Manual Ticket Booking: Long queues, especially during peak times, cause frustration and impatience among visitors.
+Error-Prone Process: Manual systems are susceptible to mistakes such as incorrect ticket issuance, double bookings, and lost records, leading to delays and visitor dissatisfaction.
+Impact on Visitor Experience: The inefficiencies and errors in manual ticket booking detract from the overall visitor experience, potentially harming the museum's reputation and visitor numbers.
+Project Description:
+Chatbot-Based Ticket Booking System:
+Multilingual Support: The system will cater to a diverse audience by offering multilingual support.
+Automation: Automate the entire booking process, from gate entry tickets to show reservations, eliminating the need for human intervention.
+Integrated Payment Gateway: Include a payment gateway to facilitate seamless and secure transactions.
+Data Analytics: Collect and analyze data to support efficient decision-making and enhance marketing efforts.
+Expected Solution:
+Develop a multilingual chatbot-based ticket booking system capable of handling all types of bookings.
+Integrate a payment gateway for a fully automated, human-free ticketing process.
+Implement analytics to aid in decision-making and improve operational efficiency.
+
+
+58. M of Coal - Smart Automation
+Key Issues:
+Dependence on Coal: Coal remains critical for India's energy security, with a target of 1.5 Bt coal production by 2030.
+Productivity and Safety: Improved productivity and safety are essential in coal mining to meet energy goals.
+Project Description:
+Digital Shift Handover Log System:
+
+Replace manual shift handovers with a digital system, ensuring accurate communication of critical information and safety updates.
+Align with statutory and non-statutory log formats.
+Automate conversion of shift logs into organized PDF reports.
+Safety Management Plan (SMP) Digitalization:
+
+Digitalize the Safety Management Plan as per DGMS guidelines for better risk management and monitoring.
+Integrate the solution with existing ERP software.
+Implement strong data security measures.
+Expected Solution:
+Develop an app and web-based application to digitalize shift handover logs and Safety Management Plans.
+Streamline communication by converting shift logs into organized PDF reports.
+Integrate the application with ERP software for seamless operation.
+Ensure robust data security throughout the system.
+
+
+28. NCT - Smart Vehicles
+Current Challenges: DTC relies on manual methods for bus scheduling and route planning, leading to inefficiencies and errors.
+Project Goal: Develop an automated software solution to streamline bus scheduling, optimize resource utilization, and enhance route planning.
+
+Key Features:
+Linked Duty Scheduling: Assign crews to a specific bus for the duration of their shift, improving familiarity and accountability.
+Unlinked Duty Scheduling: Allow crew members to hand over buses after completing trips, manage their rest periods, and reassign them.
+Route Management: Map existing bus routes, visually represent the network, draw new routes, and highlight overlaps with proposed routes.
+Technologies Used: Integration of algorithms, data analytics, and GIS technologies.
+
+Expected Output: A functional prototype with a user-friendly interface for managing bus schedules, planning routes, and accessing real-time data and reports.
