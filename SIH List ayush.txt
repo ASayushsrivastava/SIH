@@ -103,3 +103,5 @@ Route Management: Map existing bus routes, visually represent the network, draw 
 Technologies Used: Integration of algorithms, data analytics, and GIS technologies.
 
 Expected Output: A functional prototype with a user-friendly interface for managing bus schedules, planning routes, and accessing real-time data and reports.
+
+u can other idea here
